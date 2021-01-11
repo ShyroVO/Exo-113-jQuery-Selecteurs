@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$(".test").hide();
